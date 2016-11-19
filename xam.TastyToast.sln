@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xam.TastyToast", "xam.TastyToast\xam.TastyToast.csproj", "{A66644BA-5EE5-432E-ACFE-62EE4B3D464F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xam.rebound", "..\xam.rebound\xam.rebound\xam.rebound.csproj", "{61139A9C-B9C5-4052-8728-91713393FD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_TastyToast", "App_TastyToast\App_TastyToast.csproj", "{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66644BA-5EE5-432E-ACFE-62EE4B3D464F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66644BA-5EE5-432E-ACFE-62EE4B3D464F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66644BA-5EE5-432E-ACFE-62EE4B3D464F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66644BA-5EE5-432E-ACFE-62EE4B3D464F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61139A9C-B9C5-4052-8728-91713393FD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61139A9C-B9C5-4052-8728-91713393FD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61139A9C-B9C5-4052-8728-91713393FD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61139A9C-B9C5-4052-8728-91713393FD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839AC5BD-5B4C-4607-B50F-1B7EF05CB29E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
